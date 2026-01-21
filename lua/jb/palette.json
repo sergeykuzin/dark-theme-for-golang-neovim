@@ -1092,7 +1092,8 @@
             "italic": true
           },
           "dark": {
-            "fg": "#7A7E85"
+            "fg": "#7A7E85",
+            "italic": true
           }
         },
         "DocComment": {
@@ -1144,7 +1145,8 @@
             "italic": true
           },
           "dark": {
-            "fg": "#7A7E85"
+            "fg": "#7A7E85",
+            "italic": true
           }
         }
       },
